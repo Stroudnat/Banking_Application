@@ -1,0 +1,21 @@
+#notUser,
+#user,
+#createTag {
+  color: blue;
+}
+
+#login,
+#create,
+#loginSuccess {
+  color: black;
+}
+#notUser:hover {
+  text-decoration: underline;
+}
+
+#createTag:hover {
+  text-decoration: underline;
+}
+#user:hover {
+  text-decoration: underline;
+}
